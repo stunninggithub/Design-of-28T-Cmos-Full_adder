@@ -176,6 +176,5 @@ M Kasturi,Sphoorthy Engineering college,Nadargul,Hyderabad.
 ## References
 [1].http://www.ijatest.org/wp-content/uploads/2017/01/37.FULL-ADDER-USING-CMOS-TECHNOLOGY.pdf
 [2].https://dayonmyplate.in/
-
 [3].https://www.youtube.com/watch?v=p4jgNRjwluA
 
