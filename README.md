@@ -29,8 +29,10 @@ The Relations between the inputs and the outputs are expressed as:
 
 ## Reference Circuit Diagram
 <img width ="1329" alt="Reference_Circuit" src="https://user-images.githubusercontent.com/100271073/155868887-b53607d0-2bf8-4a89-b0e4-01e9d825b7f7.JPG">
+
 ## Reference Circuit Waveform
 <img.width="1156" alt="Reference_waveform" src="https://user-images.githubusercontent.com/100271073/155868939-216e8f82-8717-413f-a29c-d59cc68a8fae.JPG">
+
 ## Desirable Truth Table
 ![Full_adder_Truth_Table](https://user-images.githubusercontent.com/59500283/155389650-b7823b97-2f40-4cf2-bb7a-72e5364af9b2.jpeg)
 
