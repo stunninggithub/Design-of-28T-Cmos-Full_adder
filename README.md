@@ -64,6 +64,7 @@ The Relations between the inputs and the outputs are expressed as:
 
 ## Output Waveform
 <img width="1458" alt="Output_waveform" src="https://user-images.githubusercontent.com/100271073/155870570-f095cfea-d91a-45a6-901b-1f1252a2e977.png">
+
 ## Netlist
 ```
 
@@ -152,10 +153,6 @@ c6 sum gnd! c=1p
 .end
 
 ```
-
-
-
-
 
 ## Conclusion
 Thus, the addition for a single-bit is achieved using 28T full adder.
