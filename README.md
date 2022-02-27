@@ -31,7 +31,7 @@ The Relations between the inputs and the outputs are expressed as:
 <img width ="1329" alt="Reference_Circuit" src="https://user-images.githubusercontent.com/100271073/155868887-b53607d0-2bf8-4a89-b0e4-01e9d825b7f7.JPG">
 
 ## Reference Circuit Waveform
-<img.width="1156" alt="Reference_waveform" src="https://user-images.githubusercontent.com/100271073/155868939-216e8f82-8717-413f-a29c-d59cc68a8fae.JPG">
+<img width="1156" alt="Reference_waveform" src="https://user-images.githubusercontent.com/100271073/155868939-216e8f82-8717-413f-a29c-d59cc68a8fae.JPG">
 
 ## Desirable Truth Table
 ![Full_adder_Truth_Table](https://user-images.githubusercontent.com/59500283/155389650-b7823b97-2f40-4cf2-bb7a-72e5364af9b2.jpeg)
@@ -42,6 +42,8 @@ The Relations between the inputs and the outputs are expressed as:
  The Synopsys Custom Compiler™ design environment is a modern solution for full-custom analog, custom digital, and mixed-signal IC design. As the heart of the Synopsys Custom Design Platform, Custom Compiler provides design entry, simulation management and analysis, and custom layout editing features. This tool was used to design the circuit on a transistor level.
  
  ![custom_compiler](https://user-images.githubusercontent.com/59500283/155473715-c6a1fd5b-71c7-4655-936a-5fe3befabfd8.png)
+
+
 • Synopsys Primewave:
  PrimeWave™ Design Environment is a comprehensive and flexible environment for simulation setup and analysis of analog, RF, mixed-signal design, custom-digital and memory designs within the Synopsys Custom Design Platform. This tool helped in various types of simulations of the above designed circuit.
 
