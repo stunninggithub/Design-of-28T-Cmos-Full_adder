@@ -56,13 +56,16 @@ The Relations between the inputs and the outputs are expressed as:
 
 <img width="660" alt="Full_Adder_Symbol" src="https://user-images.githubusercontent.com/100271073/155869508-da41764f-81a4-42e1-83ea-d6ddeb9a1f34.png">
 <img width=1265" alt="Full_Adder_Testbench" src="https://user-images.githubusercontent.com/100271073/155869571-c367ea61-2709-447f-b8f9-29dac4217985.png">
+
 ## Parameters set for Voltage Source for Input A
 <img width="346" alt="A_Pulse" src="https://user-images.githubusercontent.com/100271073/155869918-45f335c6-a013-46e5-9786-ec15b6d9e7bc.png">
 
 ## Parameters set for Voltage Source for Input B
 <img width="367" alt="B_Pulse" src="https://user-images.githubusercontent.com/100271073/155869974-06b89f42-4892-482c-8455-e53adef3e313.png">
+
 ## Parameters set for Voltage Source for Input Cin 
 <img width="350" alt="Cin_Pulse" src="https://user-images.githubusercontent.com/100271073/155870051-621d173f-6de1-42f4-af30-80fcf67c0667.png">
+
 ## Transient Settings
 <img width="1326" alt="Transient_Analysis" src="https://user-images.githubusercontent.com/100271073/155870475-db1a4bb8-63c1-439e-985c-38ea3259ba3d.png">
 
